@@ -4,4 +4,4 @@ Creation of a model based on historical data loans in order to predict if a borr
 
 The data is from a subset of the LendingClub DataSet and was obtained from Kaggle: https://www.kaggle.com/wordsforthewise/lending-club
 
-This exercise is part of the hands-on activity of the awesome online course "Python for Data Science and Machine Learning Bootcamp" from Jose Portilla. I really enjoyed checking the potential applications of the machine learning principles and neural networks in the real life. The fundamentals of this exercise might be potentially interesting for the usual loan activity of the banks.
+This exercise is part of the hands-on activity of the awesome online course "Python for Data Science and Machine Learning Bootcamp" from Jose Portilla. I really enjoyed checking the potential applications of the machine learning principles in the real life. The fundamentals of this exercise might be potentially interesting for the usual loan activity of the banks.
